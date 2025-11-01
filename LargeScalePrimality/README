@@ -1,0 +1,18 @@
+# Prime Counter
+
+This project counts the number of prime numbers in a given input file using parallel processing.
+
+## Requirements
+
+- .NET 9 SDK
+- C# 13.0
+
+## Usage
+
+1. Build the project:
+
+
+2. Run the program with the path to your input file:
+
+		dotnet run nums_200_mil.txt
+
